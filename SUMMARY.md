@@ -20,7 +20,7 @@
   * [Integration Guide](api/integration-guide.md)
   * [Authentication](api/authentication.md)
   * [Idempotency](api/idempotency.md)
-  * [Wallet & Funding](api/wallet.md)
+  * [Funding & Deposits](api/wallet.md)
   * [Cards](api/cards.md)
   * [Transactions](api/transactions.md)
   * [Webhooks](api/webhooks.md)
